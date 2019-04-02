@@ -1,16 +1,17 @@
 {
   "name": "react-mpa",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "A cli to create multiple pages react application",
   "bin": {
     "react-mpa": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["webpack", "react", "multiple pages"],
+  "author": "vivimee",
   "license": "ISC",
+  "repository": "https://github.com/vivimee/react-mpa-cli.git",
   "dependencies": {
     "commander": "^2.19.0"
   }
